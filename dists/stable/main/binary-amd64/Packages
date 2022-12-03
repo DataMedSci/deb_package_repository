@@ -1,0 +1,65 @@
+Package: pymchelper
+Maintainer: Leszek Grzanka
+Architecture: amd64
+Version: 2.2.1
+Depends: libc6 (>= 2.12), pymchelper-convertmc (=2.2.1), pymchelper-runmc (=2.2.1), pymchelper-plan2sobp (=2.2.1), pymchelper-mcscripter (=2.2.1)
+Filename: pool/main/p/pymchelper/pymchelper.deb
+Size: 708
+MD5sum: e93eee03a035a380c4518dc8142a9eab
+SHA1: e120b4aac65a5096387ace6518adcd78afd884ee
+SHA256: 059ee0aded7ca9bd0d7b9cabd218f3acde4f03d6520d323dcc7e034bb6591204
+SHA512: 5d1b7132f01846ad7c1f32bdaf128a9d02de87cd015667e473b90fd04f1bcd174f3a4ff58dda137bda3a2336d720291fa880416a7454d111f5d73b5262467c6e
+Description: pymchelper
+
+Package: pymchelper-convertmc
+Maintainer: Leszek Grzanka
+Architecture: amd64
+Version: 2.2.1
+Depends: libc6 (>= 2.12)
+Filename: pool/main/p/pymchelper-convertmc/pymchelper-convertmc.deb
+Size: 42064292
+MD5sum: 08d1aab16050aab181e919f803f7657e
+SHA1: 82dd6bbda4e221a43b1bfb079e403c3ace5e7295
+SHA256: 4b1bcf88f28ad25582a7174182c87624821222eae68a2be83fe1f7c3704cc486
+SHA512: 3e91b6b9295be0f7d307f0f364a15a93a063b390aa1e2ca77bc104037d8d814b205a35fb8c4602e2fa58541f0c339d1b837dcd3f3e452a1ee54bd16d87ffde23
+Description: pymchelper convertmc
+
+Package: pymchelper-mcscripter
+Maintainer: Leszek Grzanka
+Architecture: amd64
+Version: 2.2.1
+Depends: libc6 (>= 2.12)
+Filename: pool/main/p/pymchelper-mcscripter/pymchelper-mcscripter.deb
+Size: 11998536
+MD5sum: 2447314c93a239a153043e76130b7326
+SHA1: 621b3128628dd93496e3bcbf7e76c5219b03b685
+SHA256: 8616853ce2d594b14b5397f90cabb455a668b02db82ac158a1687e013fc04a86
+SHA512: cf41bb2fcea265c8618bae80f6c1dc5a7a4733ac4991fd6ec61658d3b224c030c5fbbf647f735aa0dc3ab1b300bc0c5746d69db2715b1f9ed40c1f44ae8e8843
+Description: pymchelper mcscripter
+
+Package: pymchelper-plan2sobp
+Maintainer: Leszek Grzanka
+Architecture: amd64
+Version: 2.2.1
+Depends: libc6 (>= 2.12)
+Filename: pool/main/p/pymchelper-plan2sobp/pymchelper-plan2sobp.deb
+Size: 91826652
+MD5sum: ab815929f0adfeb79d7a992ccfdbb2a9
+SHA1: 1ad56b208e9a0e4223cc751a73c6549a8f802dcc
+SHA256: 319dc6f4d531b902fef5d83fb0fbd045a3dd13e0647904f547478f0ce841d7cd
+SHA512: de244dd1c95a1fcc93545d0fcea794b226255ba0b716d1054fb0f600878d50d5ea8d819b88a1fa8d61e6deeb7674b96ec291bb05b8ee2315df08743075ad8fa5
+Description: pymchelper plan2sobp
+
+Package: pymchelper-runmc
+Maintainer: Leszek Grzanka
+Architecture: amd64
+Version: 2.2.1
+Depends: libc6 (>= 2.12)
+Filename: pool/main/p/pymchelper-runmc/pymchelper-runmc.deb
+Size: 41960560
+MD5sum: 74ac393fb3dcf67ceff4d69941341087
+SHA1: 02a4c0497a5f928021d6c5d4df4b537dc80d637e
+SHA256: 24eafd5f328ec4aaa7343ed0086ac722d637a9e46af432ca143dc443e45db5d3
+SHA512: 7d615b2e77f86fdac1abecf9011d0e32ccdbd49f6d793801b2945d537a4cb5bbc4c62f36e3bf1e2bbf127490078aa7b390b17c8456301e2660ca7a7c881cbf35
+Description: pymchelper runmc
+
