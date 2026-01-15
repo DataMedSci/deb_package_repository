@@ -1,0 +1,52 @@
+Package: pymchelper
+Maintainer: Leszek Grzanka
+Architecture: amd64
+Version: 2.9.2
+Depends: libc6 (>= 2.12), pymchelper-convertmc (=2.9.2), pymchelper-mcscripter (=2.9.2), pymchelper-plan2sobp (=2.9.2)
+Filename: pool/main/p/pymchelper/pymchelper.deb
+Size: 516
+MD5sum: 99542b995019510989592cb632fb5238
+SHA1: 65345c39ae5d1a369125f513b0077f042b1b734e
+SHA256: f4c794d6c3566509945ffa5dfda6d14cb39c6eac3b95e796ec34d9d61183f0a6
+SHA512: be77cdadf8a3ab87430fb04d5a79ccdc71fa236f669605d17011d84ba32e3dd8f533dda54377fe79946c7ac366fb046768aad1c5eb336bf1946f27f14446851b
+Description: pymchelper
+
+Package: pymchelper-convertmc
+Maintainer: Leszek Grzanka
+Architecture: amd64
+Version: 2.9.2
+Depends: libc6 (>= 2.12)
+Filename: pool/main/p/pymchelper-convertmc/pymchelper-convertmc.deb
+Size: 40017344
+MD5sum: e7c1290d58af7c427430e2edc19c1da4
+SHA1: af47acd6df6a9c7ed022bb5be47b152d151e5537
+SHA256: 57855464519260e37a998a657a1cfd9ac6bb572c6409a08cc5e72dce92337b6d
+SHA512: a3d67bf9af42713d6d03154fe49a4b0badbbc0ab6b0825afd0f4c010c567b6c985e35d6057f0cb10bee0e5dd284023306658a464daf6a9eb9ced6a93231a49e1
+Description: pymchelper convertmc
+
+Package: pymchelper-mcscripter
+Maintainer: Leszek Grzanka
+Architecture: amd64
+Version: 2.9.2
+Depends: libc6 (>= 2.12)
+Filename: pool/main/p/pymchelper-mcscripter/pymchelper-mcscripter.deb
+Size: 5959920
+MD5sum: 2d9a931d627c5558fb946678c1c8e60f
+SHA1: 45e213fe08aee0e1844f81ee947611851ab96df8
+SHA256: a77b7bc1bdb17de855348e50271cb168a6659e9bf82b5da61dddfe9887ad82f9
+SHA512: f5bc06922073c2e85c41dac54b4c5f3e5a90496db7a79097efae2315457416da517368adf4bb322bb5bd4bb36273668ba03e5d21d3267024953e2313ed6c53c3
+Description: pymchelper mcscripter
+
+Package: pymchelper-plan2sobp
+Maintainer: Leszek Grzanka
+Architecture: amd64
+Version: 2.9.2
+Depends: libc6 (>= 2.12)
+Filename: pool/main/p/pymchelper-plan2sobp/pymchelper-plan2sobp.deb
+Size: 25013754
+MD5sum: a6f5dd1ffaa9ce432226a41d1438a3dd
+SHA1: c7d59b5535a9bdb7fad4bdc88305ae9eec432500
+SHA256: 50fa5cb1b8bca132848f04d9c523f0f7adba57c4b9fde0081c28841b33ef65eb
+SHA512: 8e8ea8b3910d457d1e7ec80cba371cce30fd71fb6507540df141da3df43152c48a42b10288fbb6e426598a4f501d8a5a08a2d364f14ff4d0617bb8947f1e85cd
+Description: pymchelper plan2sobp
+
